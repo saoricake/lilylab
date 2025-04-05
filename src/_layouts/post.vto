@@ -1,0 +1,16 @@
+---
+layout: root.vto
+---
+
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+    <span>
+      posted on <time datetime="{{ dateISO(date) }}">{{ datePretty(date) }}</time> by <address>{{ author }}</address>
+    </span>
+  </header>
+
+  <div class="main">
+    {{ content }}
+  </div>
+</article>

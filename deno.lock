@@ -39,9 +39,6 @@
     "npm:markdown-it-deflist@3.0.0": "3.0.0",
     "npm:markdown-it@14.1.0": "14.1.0",
     "npm:meriyah@6.0.5": "6.0.5",
-    "npm:preact-render-to-string@6.5.13": "6.5.13_preact@10.26.4",
-    "npm:preact@*": "10.26.4",
-    "npm:preact@10.26.4": "10.26.4",
     "npm:react-dom@18.3.1": "18.3.1_react@18.3.1",
     "npm:react@*": "18.3.1",
     "npm:react@18.3.1": "18.3.1"
@@ -221,15 +218,6 @@
     },
     "meriyah@6.0.5": {
       "integrity": "sha512-SrMqQCox7TTwtftWKHy/ZaVe+ZRpRl20pAgDo+PS9hzcAJrMjYsBJQPPiLXTnjztrqdfGS+Zz99r6Bwvydta1w=="
-    },
-    "preact-render-to-string@6.5.13_preact@10.26.4": {
-      "integrity": "sha512-iGPd+hKPMFKsfpR2vL4kJ6ZPcFIoWZEcBf0Dpm3zOpdVvj77aY8RlLiQji5OMrngEyaxGogeakTb54uS2FvA6w==",
-      "dependencies": [
-        "preact"
-      ]
-    },
-    "preact@10.26.4": {
-      "integrity": "sha512-KJhO7LBFTjP71d83trW+Ilnjbo+ySsaAgCfXOXUlmGzJ4ygYPWmysm77yg4emwfmoz3b22yvH5IsVFHbhUaH5w=="
     },
     "punycode.js@2.3.1": {
       "integrity": "sha512-uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA=="
@@ -492,11 +480,11 @@
     "https://deno.land/x/vento@v1.12.15/src/js.ts": "c4ac5e2b2cd2995523d3167c5708c424686fd30d2d3951ff965a76dbdfb74e37",
     "https://deno.land/x/vento@v1.12.15/src/loader.ts": "c05add67f582e937ee611852075ce2cc038b5e80e3e609eef96fa5ed74a5086c",
     "https://deno.land/x/vento@v1.12.15/src/tokenizer.ts": "127ddad02054f63b8b646e4dfbf555e1e34e9b8dcbd58d86b3729a4de95abd27",
-    "https://deno.land/x/vento@v1.12.15/src/transformer.ts": "a3f4bce5d500267bdbc1f945765bdd5430ec3dbfea4fe963a9289159dde230bd"
-  },
-  "workspace": {
-    "dependencies": [
-      "npm:preact@*"
-    ]
+    "https://deno.land/x/vento@v1.12.15/src/transformer.ts": "a3f4bce5d500267bdbc1f945765bdd5430ec3dbfea4fe963a9289159dde230bd",
+    "https://unpkg.com/date-fns@4.1.0/_lib/addLeadingZeros.js": "b36ad741f49f5ac160cb1db99d086315e7ea8e147104cd3f2596de6e9deeccf2",
+    "https://unpkg.com/date-fns@4.1.0/constants.js": "27b92be6a280c50b7e3091d80eddb9473e2ffb6265264235ba3a83f9a4d41be5",
+    "https://unpkg.com/date-fns@4.1.0/constructFrom.js": "7b3e579c016294f97bea3456908ca4d880beabf1619c26bd8ac59434c0386c7d",
+    "https://unpkg.com/date-fns@4.1.0/formatISO.js": "a2ffa020f93f981fb1f2443db0583ff402806cfd7e7e8510f69dc3b5a43b49a9",
+    "https://unpkg.com/date-fns@4.1.0/toDate.js": "5d3a68565e536e5f6fd8ab008fc4934b39b5c362fd8eb2c8d4f78ecec2f57790"
   }
 }
