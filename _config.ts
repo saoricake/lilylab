@@ -3,13 +3,8 @@ import { dateISO, datePretty } from "./_utils.ts"
 
 // initialize the site
 const lilylab = lume({
-  src: "./src",
-  dest: "./dist",
   location: new URL("https://proflily.games/"),
-  includes: "_layouts",
-  server: {
-    open: true,
-  },
+  server: { open: true },
 })
 
 // make the utility functions available in the blog folder
