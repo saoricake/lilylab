@@ -17,9 +17,10 @@ lilylab.ignore("README.md")
 lilylab.data("dateISO", dateISO)
 lilylab.data("datePretty", datePretty, "/blog")
 
-// copy the CSS and blog image folders to the output folder
+// copy the static file folders folders to the output folder
 lilylab.copy("css")
 lilylab.copy("blog/img")
+lilylab.copy("txt")
 
 // keep dates on post URLs
 lilylab.parseBasename(basename => ({ basename }))
