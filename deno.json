@@ -11,5 +11,6 @@
     "types": [
       "lume/types.ts"
     ]
-  }
+  },
+  "lock": false
 }
