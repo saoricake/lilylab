@@ -3,7 +3,7 @@ const pad = (n: number, l: number) =>
 
 export const dateISO = (date: Date) => {
   const year = pad(date.getUTCFullYear(), 4)
-  const month = pad(date.getUTCMonth(), 2)
+  const month = pad(date.getUTCMonth() + 1, 2)
   const day = pad(date.getUTCDate(), 2)
   return `${year}-${month}-${day}`
 }

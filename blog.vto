@@ -1,0 +1,18 @@
+---
+title: Blog
+layout: page.vto
+---
+
+<nav class="blogarchive">
+  <h1>Blog</h1>
+
+  <ul>
+    {{ for post of search.pages("type=post url!=false", "date=desc") }}
+    <li>
+      <time datetime="{{ dateISO(post.date) }}">{{ dateISO(post.date) }}</time>
+      <span>{{ post.author }}</span>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {{ /for }}
+  </ul>
+</nav>

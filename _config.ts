@@ -7,8 +7,8 @@ const lilylab = lume({
   server: { open: true },
 })
 
-// make the utility functions available in the blog folder
-lilylab.data("dateISO", dateISO, "/blog")
+// make the utility functions available in other pages
+lilylab.data("dateISO", dateISO)
 lilylab.data("datePretty", datePretty, "/blog")
 
 // copy the CSS folder to the output folder
