@@ -3,9 +3,9 @@ title: Welcome to Lily Lab!
 author: Kastel
 ---
 
-<!-- <figure class="image"> -->
-<!-- <img src="blog/img/1_img1.png" width="50%" alt="Welcome to Lily Lab."> -->
-<!-- </figure> -->
+<figure class="image">
+  <img src="/blog/img/1_img1.png" width="50%" alt="Welcome to Lily Lab.">
+</figure>
 
 Hello folks, we're happy to announce **Lily Lab** - the development blog and chatterbox of the Prof Lily collective!
 

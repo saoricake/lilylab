@@ -13,11 +13,9 @@ lilylab.data("datePretty", datePretty, "/blog")
 
 // copy the CSS folder to the output folder
 lilylab.copy("css")
+lilylab.copy("blog/img")
 
 // keep dates on post URLs
 lilylab.parseBasename(basename => ({ basename }))
 
 export default lilylab
-
-// https://lume.land/docs/getting-started/working-with-assets/
-// https://vento.js.org/
