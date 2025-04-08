@@ -1,0 +1,15 @@
+---
+title: Games
+layout: page.vto
+---
+
+<h1>Our Games</h1>
+
+{{ for game of games }}
+<iframe
+  title="{{ game.title }}"
+  src="{{ game.embed }}"
+  frameborder="0">
+  <a href="{{ game.link }}" rel="external">{{ game.title }} by {{ siteauthor }}</a>
+</iframe>
+{{ /for }}
