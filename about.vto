@@ -1,0 +1,31 @@
+---
+title: About Us
+layout: page.vto
+---
+
+<h1>About Us</h1>
+
+<p><i>Prof. Lily</i> is a visual novel collective, inspired by Japanese adventure games. Our goal is to tell stories that face our harsh subcultural reality head-on. We are:</p>
+
+{{ for member of members }}
+<h2>{{ member.name }}</h2>
+{{ if member.links }}
+<address>
+  {{ for site, address of member.links }}
+    <a href="{{ address }}">{{ site }}</a>
+    {{ if Object.values(member.links).indexOf(address) !== Object.values(member.links).length - 1 }}
+    /
+    {{ /if }}
+  {{ /for }}
+</address>
+{{ /if }}
+<p>{{ member.desc }}</p>
+{{ /for }}
+
+<h2>Contact us</h2>
+<address>
+  <p>proflilyvn (at) gmail (dot) com</p>
+  <p>
+    Feel free to reach us at the email address above, or via our account on <a href="https://bsky.app/profile/proflilyvn.bsky.social">Bluesky</a>.
+  </p>
+</address>
