@@ -3,7 +3,7 @@
     <a href="/games"><h2>Games</h2></a>
     <ul role="list">
       {{ for game of games }}
-      <li><a href="{{ game.link }}" rel="external">{{ game.title }}</a></li>
+      <li><a href="{{ game.link }}">{{ game.title }}</a></li>
       {{ /for }}
     </ul>
   </nav>
