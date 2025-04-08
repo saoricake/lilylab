@@ -7,6 +7,9 @@ const lilylab = lume({
   server: { open: true },
 })
 
+// don't consider the readme part of the site
+lilylab.ignore("README.md")
+
 // make the utility functions available in other pages
 lilylab.data("dateISO", dateISO)
 lilylab.data("datePretty", datePretty, "/blog")
