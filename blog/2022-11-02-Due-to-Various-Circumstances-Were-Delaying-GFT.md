@@ -17,7 +17,7 @@ That said, we are reinvigorated and would like to release a second demo in the f
 
 We'll also be setting up a Tumblr in anticipation of a certain muskrat ruining a major platform we're using.
 
-Lastly, our team has been helping out with a fellow visual novel team on the sideline. <cite>Queen Beast</cite> will be coming out on [Steam](https://store.steampowered.com/app/2078290) and [itch.io](https://envelopevn.itch.io/queen-beast) for free, and we're excited to see this fantasy title come alive. We are comrades with the artist of the game and would love to see it succeed.
+Lastly, our team has been helping out with a fellow visual novel team on the sideline. <cite>Queen Beast</cite> will be coming out on [Steam](https://store.steampowered.com/app/2078290){rel=external target=_blank} and [itch.io](https://envelopevn.itch.io/queen-beast){rel=external target=_blank} for free, and we're excited to see this fantasy title come alive. We are comrades with the artist of the game and would love to see it succeed.
 
 And if you have the chance, make sure to check the staff room and extras: Len has been commissioned to draw a CG for the game while Kastel has a little staff page as a QA Tester. You can even find Prof. Lily in the staff page too!
 

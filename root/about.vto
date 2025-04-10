@@ -11,7 +11,7 @@ title: About Us
 {{ if member.links }}
 <address>
   {{ for site, address of member.links }}
-    <a href="{{ address }}">{{ site }}</a>
+    <a href="{{ address }}" rel="external" target="_blank">{{ site }}</a>
     {{ if Object.values(member.links).indexOf(address) !== Object.values(member.links).length - 1 }}
     /
     {{ /if }}
@@ -25,6 +25,6 @@ title: About Us
 <address>
   <p>proflilyvn (at) gmail (dot) com</p>
   <p>
-    Feel free to reach us at the email address above, or via our account on <a href="https://bsky.app/profile/proflilyvn.bsky.social">Bluesky</a>.
+    Feel free to reach us at the email address above, or via our account on <a href="https://bsky.app/profile/proflilyvn.bsky.social" rel="external" target="_blank">Bluesky</a>.
   </p>
 </address>

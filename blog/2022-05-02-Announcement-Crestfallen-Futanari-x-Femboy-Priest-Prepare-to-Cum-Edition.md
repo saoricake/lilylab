@@ -45,7 +45,7 @@ So, let's make provocative ero media together, one femboy priest at a time.
 
 (hello everyone, saori here. kastel forgot to put links to the dlsite pages in the post, lol, so here they are:
 
-- jp: [魔王討伐失敗ヒロイン犠牲ノーマルエンドで鬱になった剣士(ふたなり)x男の娘神官のマンガ](https://www.dlsite.com/maniax/work/=/product_id/RJ381651.html)
-- en: [Crestfallen Futanari x Femboy Priest: Prepare to Cum Edition](https://www.dlsite.com/maniax/work/=/product_id/RJ388558.html)
+- jp: [魔王討伐失敗ヒロイン犠牲ノーマルエンドで鬱になった剣士(ふたなり)x男の娘神官のマンガ](https://www.dlsite.com/maniax/work/=/product_id/RJ381651.html){rel=external target=_blank}
+- en: [Crestfallen Futanari x Femboy Priest: Prepare to Cum Edition](https://www.dlsite.com/maniax/work/=/product_id/RJ388558.html){rel=external target=_blank}
 
 yeah that's it. peace)

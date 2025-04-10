@@ -9,7 +9,7 @@ author: Saori
   </blockquote>
 
   <figcaption>
-    Kaneko Kazuma, <cite><a href="https://web.archive.org/web/20160715095721/http://www.1up.com/features/shin-megami-tensei-nocturne">"Shin Megami Tensei Nocturne."</a> 1UP.com, 3 April 2004</cite>
+    Kaneko Kazuma, <cite><a href="https://web.archive.org/web/20160715095721/http://www.1up.com/features/shin-megami-tensei-nocturne" rel="external" target="_blank">"Shin Megami Tensei Nocturne."</a> 1UP.com, 3 April 2004</cite>
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ so, yuri. i'm a woman who likes women, and as you could probably tell from a cou
 
 yeah, it really is great... *most of the time*, as i said. the rest of the time? well...
 
-this would be the point where i pose the question "what yuri stories are worth telling?", but as it turns out, i won't have to do it — because the big shots in the industry have already answered it! in a [2016 interview with akiba blog](http://blog.livedoor.jp/geek/archives/51536605.html) ([translated by megax on sakuga blog](https://blog.sakugabooru.com/2017/01/04/manga-editors-roundtable-the-growth-of-yuri)), katsuyuki sasaki, editor at gangan joker magazine, said:
+this would be the point where i pose the question "what yuri stories are worth telling?", but as it turns out, i won't have to do it — because the big shots in the industry have already answered it! in a [2016 interview with akiba blog](http://blog.livedoor.jp/geek/archives/51536605.html){rel=external target=_blank} ([translated by megax on sakuga blog](https://blog.sakugabooru.com/2017/01/04/manga-editors-roundtable-the-growth-of-yuri){rel=external target=_blank}), katsuyuki sasaki, editor at gangan joker magazine, said:
 
 <figure class="quote">
   <blockquote cite="https://blog.sakugabooru.com/2017/01/04/manga-editors-roundtable-the-growth-of-yuri">
@@ -63,7 +63,7 @@ this would be the point where i pose the question "what yuri stories are worth t
   </blockquote>
 </figure>
 
-and from a [2019 interview with kodansha](https://kodansha.us/2019/01/22/kodansha-new-yuri-bl-comic-yuri-hime-interview), we have the editor-in-chief of yuri hime, umezawa kanako:
+and from a [2019 interview with kodansha](https://kodansha.us/2019/01/22/kodansha-new-yuri-bl-comic-yuri-hime-interview){rel=external target=_blank}, we have the editor-in-chief of yuri hime, umezawa kanako:
 
 <figure class="quote">
   <blockquote cite="https://kodansha.us/2019/01/22/kodansha-new-yuri-bl-comic-yuri-hime-interview">
@@ -85,7 +85,7 @@ i wish i could do something about this. i wish i could say that i know how to ma
   </blockquote>
 
   <figcaption>
-    Yamanaka Takuya, <cite><a href="https://digi-lab.blog/den-faminico-gamer-interview-with-the-caligula-effect-producer-takuya-yamanaka/">"I want to create something that will provide solace for people who can't find solace in mainstream media."</a> Den Faminico Gamer, 31 May 2021</cite>
+    Yamanaka Takuya, <cite><a href="https://digi-lab.blog/den-faminico-gamer-interview-with-the-caligula-effect-producer-takuya-yamanaka/" rel="external" target="_blank">"I want to create something that will provide solace for people who can't find solace in mainstream media."</a> Den Faminico Gamer, 31 May 2021</cite>
   </figcaption>
 </figure>
 
