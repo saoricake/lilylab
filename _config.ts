@@ -7,7 +7,10 @@ const SITE_DOMAIN = new URL("https://proflily.games/")
 // initialize the site
 const lilylab = lume({
   location: SITE_DOMAIN,
-  server: { open: true },
+  server: {
+    page404: "./not_found.html",
+    open: true,
+  },
 })
 
 // don't consider the readme part of the site
