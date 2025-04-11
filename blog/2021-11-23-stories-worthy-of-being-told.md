@@ -1,6 +1,10 @@
 ---
 title: stories worthy of being told
 author: Saori
+
+oldUrl:
+  - /posts/2021-11-23-stories-worthy-of-being-told.html
+  - /blog/2021-11-23-stories-worthy-of-being-told.html
 ---
 
 <figure class="quote">

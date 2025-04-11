@@ -1,6 +1,8 @@
 ---
 title: What I Want to Read and Write When It Comes to Disabilities and Related Subjects
 author: Kastel
+
+oldUrl: /blog/2022-07-09-What-I-Want-to-Read-and-Write-When-It-Comes-to-Disabilities.html
 ---
 
 Before I get things started, I like to talk about a small and otherwise inconsequential scene from a visual novel I recently finished, <ruby>俺たちに翼はない<rt>Oretachi ni Tsubasa wa Nai</rt></ruby> -- specifically, Miyako's Prelude.

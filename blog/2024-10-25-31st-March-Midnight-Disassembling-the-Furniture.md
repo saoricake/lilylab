@@ -1,6 +1,8 @@
 ---
 title: "31st March, Midnight: Disassembling the Furniture"
 author: Lacunova
+
+oldUrl: /blog/2024-10-25-31st-March-Midnight-Disassembling-the-Furniture.html
 ---
 
 <figure class="image">

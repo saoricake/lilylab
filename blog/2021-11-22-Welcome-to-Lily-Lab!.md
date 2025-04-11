@@ -1,6 +1,10 @@
 ---
 title: Welcome to Lily Lab!
 author: Kastel
+
+oldUrl:
+  - /posts/2021-11-22-Welcome-to-Lily-Lab!.html
+  - /blog/2021-11-22-Welcome-to-Lily-Lab!.html
 ---
 
 <figure class="image">

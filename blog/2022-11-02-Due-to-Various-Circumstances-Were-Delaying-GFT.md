@@ -1,6 +1,8 @@
 ---
 title: Due to Various Circumstances, We're Delaying GFT
 author: Kastel
+
+oldUrl: /blog/2022-11-02-Due-to-Various-Circumstances-Were-Delaying-GFT.html
 ---
 
 Hey folks, sorry for the slow update with Prof. Lily and GFT. Some bad news but good news too.

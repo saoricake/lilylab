@@ -1,4 +1,5 @@
 import lume from "lume/mod.ts"
+import redirects from "lume/plugins/redirects.ts"
 import { dateISO, datePretty } from "./_utils.ts"
 
 // define the site's domain
@@ -12,6 +13,9 @@ const lilylab = lume({
     open: true,
   },
 })
+
+// load plug
+lilylab.use(redirects())
 
 // don't consider the readme part of the site
 lilylab.ignore("README.md")

@@ -1,6 +1,10 @@
 ---
 title: Why Yuri Eroge During a Pandemic?
 author: Kastel
+
+oldUrl:
+  - /posts/2021-12-24-Why-Yuri-Eroge-During-a-Pandemic.html
+  - /blog/2021-12-24-Why-Yuri-Eroge-During-a-Pandemic.html
 ---
 
 You know, producing a visual novel during this pandemic wasn't actually a wise decision.

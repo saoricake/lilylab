@@ -1,6 +1,10 @@
 ---
 title: "Announcement?: Crestfallen Futanari x Femboy Priest: Prepare to Cum Edition"
 author: Kastel
+
+oldUrl:
+  - /posts/2022-05-02-Announcement-Crestfallen-Futanari-x-Femboy-Priest-Prepare-to-Cum-Edition.html
+  - /blog/2022-05-02-Announcement-Crestfallen-Futanari-x-Femboy-Priest-Prepare-to-Cum-Edition.html
 ---
 
 Hello, everyone. This isn't a Prof. Lily thing at all, but because two members of our collective were a part of this sexually creative endeavor, it just made sense to write a post about my English-language translation of curry's <cite>Crestfallen Futanari x Femboy Priest: Prepare to Cum Edition</cite>.
