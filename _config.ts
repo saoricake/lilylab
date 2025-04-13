@@ -8,6 +8,7 @@ const SITE_DOMAIN = new URL("https://proflily.games/")
 // initialize the site
 const lilylab = lume({
   location: SITE_DOMAIN,
+  caseSensitiveUrls: true,
   server: {
     page404: "./not_found.html",
     open: true,
