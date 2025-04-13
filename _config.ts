@@ -7,6 +7,7 @@ const SITE_DOMAIN = new URL("https://proflily.games/")
 
 // initialize the site
 const lilylab = lume({
+  dest: "./__dist",
   location: SITE_DOMAIN,
   caseSensitiveUrls: true,
   server: {
@@ -18,7 +19,8 @@ const lilylab = lume({
 // load plug
 lilylab.use(redirects())
 
-// don't consider the readme part of the site
+// don't consider repo files part of the site
+lilylab.ignore(".gitignore")
 lilylab.ignore("README.md")
 
 // make the utility functions available in other pages
