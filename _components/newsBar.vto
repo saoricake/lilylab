@@ -1,6 +1,6 @@
-<aside>
+<aside class="nav-new">
   <nav>
-    <a href="/games"><h2>Games</h2></a>
+    <a href="/games"><h2 class="border-decor light">Games</h2></a>
     <ul role="list">
       {{ for game of games }}
       <li><a href="{{ game.link }}" rel="external" target="_blank">{{ game.title }}</a></li>
@@ -9,7 +9,7 @@
   </nav>
 
   <nav>
-    <a href="/blog"><h2>Recent Posts</h2></a>
+    <a href="/blog"><h2 class="border-decor light">Recent Posts</h2></a>
     <ul role="list">
       {{ for post of search.pages("type=post url!=false", "date=desc", 5) }}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>

@@ -9,10 +9,10 @@
     <title>{{ title + " / " + site.name }}</title>
     <meta
       name="author"
-      content="{{ siteauthor }}">
+      content="{{ site.author }}">
     <meta
       name="description"
-      content="{{ siteauthor }}'s online homepage.">
+      content="{{ site.author }}'s online homepage.">
 
     <link
       rel="icon"
@@ -21,7 +21,13 @@
     <link
       rel="stylesheet"
       href="/css/style.css"
-      type="text/css" media="all">
+      type="text/css" media="all"/>
+    {{ if extraCSS }}
+    <link
+      rel="stylesheet"
+      href="/css/{{ extraCSS }}"
+      type="text/css" media="all"/>
+    {{ /if }}
   </head>
 
   <body>

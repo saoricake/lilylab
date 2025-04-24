@@ -2,7 +2,7 @@
 layout: root.vto
 ---
 
-<article>
+<article class="main border-decor light">
   <header>
     <h1>{{ title }}</h1>
     <span>
@@ -10,9 +10,9 @@ layout: root.vto
     </span>
   </header>
 
-  <div class="main">
+  <main>
     {{ content }}
-  </div>
+  </main>
 
   <footer>
     {{ set next = search.nextPage(url, "type=post url!=false") }}
