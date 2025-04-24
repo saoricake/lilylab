@@ -123,6 +123,16 @@ address {
 
     li { margin: 0.3rem 0; }
   }
+
+  .rss-icon {
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    margin-bottom: -2px;
+    margin-right: 3px;
+    background-image: url("/css/img/rss.svg");
+    background-size: 14px 14px;
+  }
 }
 
 .site-footer {

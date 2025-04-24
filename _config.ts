@@ -1,4 +1,5 @@
 import lume from "lume/mod.ts"
+import feed from "lume/plugins/feed.ts"
 import redirects from "lume/plugins/redirects.ts"
 import { dateISO, datePretty } from "./_utils.ts"
 
@@ -16,8 +17,20 @@ const lilylab = lume({
   },
 })
 
-// load plug
+// load plugins
 lilylab.use(redirects())
+lilylab.use(feed({
+  output: "/blog.xml",
+  query: "type=post",
+  info: {
+    title: "=site.name",
+    authorName: "=site.author",
+    authorUrl: SITE_DOMAIN.toString(),
+  },
+  items: {
+    authorName: "=author",
+  },
+}))
 
 // don't consider repo files part of the site
 lilylab.ignore(".gitignore")

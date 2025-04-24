@@ -1,0 +1,28 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  height="128px" width="128px"
+  viewBox="0 0 256 256">
+  <rect
+    x="0"  y="0" height="256" width="256"
+    rx="55" ry="55"
+    fill="#FF8C43"/>
+  <circle
+    cx="68" cy="188" r="24"
+    fill="#FFF"/>
+  <path
+    d="
+      M  44  96
+      a 116 116 0 0 1 116 116
+      h -34
+      a  82  82 0 0 0 -82 -82
+      z"
+    fill="#FFF"/>
+  <path
+    d="
+      M  44  38
+      a 174 174 0 0 1  174  174
+      h -34
+      a 140 140 0 0 0 -140 -140
+      z"
+    fill="#FFF"/>
+</svg>
