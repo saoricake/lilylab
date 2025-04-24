@@ -1,12 +1,12 @@
 @font-face {
-	font-family: "Quicksand";
-	src: url("fonts/Quicksand-Medium.ttf") format("truetype");
-	font-weight: normal;
+  font-family: "Quicksand";
+  src: url("fonts/Quicksand-Medium.ttf") format("truetype");
+  font-weight: normal;
 }
 @font-face {
-	font-family: "Quicksand";
-	src: url("fonts/Quicksand-Bold.ttf") format("truetype");
-	font-weight: bold;
+  font-family: "Quicksand";
+  src: url("fonts/Quicksand-Bold.ttf") format("truetype");
+  font-weight: bold;
 }
 
 /* variables */
@@ -34,32 +34,32 @@
 /* general */
 
 * {
-	box-sizing: border-box;
-	padding: 0;
-	margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 :root {
-	background-image: url("img/bg.png");
-		background-attachment: fixed;
-	font-family: "Quicksand", sans-serif;
-		font-size: 16px;
-		color: var(--dark-color);
+  background-image: url("img/bg.png");
+    background-attachment: fixed;
+  font-family: "Quicksand", sans-serif;
+    font-size: 16px;
+    color: var(--dark-color);
 }
 
 body {
-	display: grid;
-		grid-template:
-			"hd hd hd" max-content
-			"a1 mn a2" max-content
-			".. ft .." max-content
-			/ minmax(170px, 1fr) 4fr 250px;
-		gap: 1rem;
-	background-color: transparent;
-	width: 100%;
-	max-width: 1300px;
-	padding: 0 1rem;
-	margin: 0.75rem auto 4rem;
+  display: grid;
+    grid-template:
+      "hd hd hd" max-content
+      "a1 mn a2" max-content
+      ".. ft .." max-content
+      / minmax(170px, 1fr) 4fr 250px;
+    gap: 1rem;
+  background-color: transparent;
+  width: 100%;
+  max-width: 1300px;
+  padding: 0 1rem;
+  margin: 0.75rem auto 4rem;
 
   .site-header { grid-area: hd; }
   .nav-main { grid-area: a1; }
@@ -75,8 +75,8 @@ a {
 }
 
 address {
-	display: inline;
-	font-style: normal;
+  display: inline;
+  font-style: normal;
 }
 
 .site-header {
@@ -126,15 +126,15 @@ address {
 }
 
 .site-footer {
-	font-size: 0.875rem;
-	text-align: right;
+  font-size: 0.875rem;
+  text-align: right;
 }
 
 .main {
-	background-color: #FFFFFF;
-	padding: 2rem min(6%, 2.5rem);
-	border-left: 6px solid var(--main-color);
-	border-radius: 2px;
+  background-color: #FFFFFF;
+  padding: 2rem min(6%, 2.5rem);
+  border-left: 6px solid var(--main-color);
+  border-radius: 2px;
 
   h1 {
     margin-bottom: 1.3rem;
@@ -166,31 +166,31 @@ address {
 }
 
 @media screen and (max-width: 1069px) {
-	body {
-		grid-template:
-			"hd hd" max-content
-			"a1 mn" max-content
-			"a2 a2" max-content
-			"ft ft" max-content
-			/ minmax(170px, 1fr) 4fr;
-	}
+  body {
+    grid-template:
+      "hd hd" max-content
+      "a1 mn" max-content
+      "a2 a2" max-content
+      "ft ft" max-content
+      / minmax(170px, 1fr) 4fr;
+  }
 
-	.nav-new {
-		display: grid;
-			grid-template-columns: 2fr 3fr;
-	}
+  .nav-new {
+    display: grid;
+      grid-template-columns: 2fr 3fr;
+  }
 }
 
 @media screen and (max-width: 803px) {
-	body {
-		grid-template:
-			"hd" max-content
-			"a1" max-content
-			"mn" max-content
-			"a2" max-content
-			"ft" max-content
-			/ 1fr;
-	}
+  body {
+    grid-template:
+      "hd" max-content
+      "a1" max-content
+      "mn" max-content
+      "a2" max-content
+      "ft" max-content
+      / 1fr;
+  }
 
   .nav-main {
     display: flex;
@@ -220,6 +220,6 @@ address {
 
   .nav-new{
     grid-template-columns: 1fr;
-		grid-template-rows: max-content max-content;
+    grid-template-rows: max-content max-content;
   }
 }
