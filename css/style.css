@@ -80,8 +80,16 @@ address {
 }
 
 .site-header {
-	padding-left: 1rem;
-	font-size: 1.25rem;
+  margin-left: 0.5rem;
+  font-size: 1.25rem;
+
+  a {
+    display: inline-block;
+    width: max-content;
+    padding: 0 0.5rem;
+    color: var(--dark-color);
+    text-decoration-line: none;
+  }
 }
 
 .nav-main,
